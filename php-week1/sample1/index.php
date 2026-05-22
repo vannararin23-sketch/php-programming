@@ -7,7 +7,7 @@ $currentCourse = "Web Mobile Application Development (WMAD)";
 
 // The dot (.) operator is used for Concatenation (joining strings)
 $welcomeMessage = "Welcome back, " . $studentName . "! ";
-$welcomeMessage .= "You are currently enrolled in " . $currentCourse . ".";
+$welcomeMessage .= "You are currently enrolled in " . $currentCourse;
 ?>
 
 <!DOCTYPE html>
